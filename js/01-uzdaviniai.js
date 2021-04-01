@@ -86,4 +86,4 @@ for(let i = nuo5; i <= iki5; i++){
         kiek++;
     }
 }
-console.log('Skaičių intervale tarp ' + nuo5  /'/ir ' + iki5 /' , besidalijančių be liekanos iš ' + dalmuo /' yra ' + kiek /'vienetai');
+console.log('Skaičių intervale tarp ' + nuo5);
