@@ -83,8 +83,7 @@ let kiek = 0;
 
 for(let i = nuo5; i <= iki5; i++){
     if (i % dalmuo == 0){
-        console.log(i)
+        kiek++;
     }
-    kiek++;
 }
-    console.log(kiek);
+console.log('Skaičių intervale tarp ' + nuo5  /'/ir ' + iki5 /' , besidalijančių be liekanos iš ' + dalmuo /' yra ' + kiek /'vienetai');
